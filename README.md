@@ -1,4 +1,4 @@
 # markdown
 demo
 
-##  ** bold** *akash*
+##  **bold** *akash*
