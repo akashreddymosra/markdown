@@ -6,7 +6,12 @@ dem0
 >>>>>> ekjhsdm
 
 ``
+
+
 pics of ![northwest](screenshot.jpg)
+
+**bold**
+
 
 lkhgnlw
 ``
