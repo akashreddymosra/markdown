@@ -6,7 +6,7 @@ dem0
 >>>>>> ekjhsdm
 
 ``
-pics of![northwest](screenshot(1).jpg)
+pics of![northwest](screenshot.jpg)
 
 lkhgnlw
 ``
