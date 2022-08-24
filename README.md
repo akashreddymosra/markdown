@@ -11,4 +11,4 @@ lkhgnlw
 akash reddy
 ``
 
-take me to [apple website](https:/www.apple.com)
+take me to [apple website](https://www.apple.com)
