@@ -11,6 +11,7 @@ dem0
 pics of ![northwest](screenshot.jpg)
 
 **bold**
+*italic*
 
 
 lkhgnlw
